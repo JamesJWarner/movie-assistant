@@ -1,4 +1,5 @@
-# <b><FONT COLOR=" 00c1ff">Movie Assistant</FONT></b>
+# <b><FONT COLOR="00c1ff">Movie Assistant</FONT></b>
+# ${\color{#00c1ff}Movie \ Assistant}$
 
 Ever had trouble deciding on a movie for your evening off? This Python project aims to facilitate seamless exploration of movies online.
 
